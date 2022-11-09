@@ -1,0 +1,39 @@
+.body{
+    background-image: url("C:/visualWorkspace/ReactJs/hemisphere/hemisphere/src/img/worldmap.webp");
+    background-repeat: no-repeat;
+    background-size:contain;
+    height: 100vh;
+    background-attachment:fixed;
+    background-color:;
+    
+}
+
+.locator{
+    width: 1200px;
+    height:65%;
+    border: 15px solid red;
+    border-radius: 10px;   
+    background-color: ;
+    
+}
+
+.top{
+    
+        background-color: aliceblue;
+        width: 100%;
+        height: 100%;
+    
+}
+
+.bg{
+    background-color: ;
+    width: 1480px;
+    height: 100vh;
+    background-attachment: scroll;
+}
+
+.bottom{
+    background-color: aliceblue;
+    width: 100%;
+    height: 100%;
+}
